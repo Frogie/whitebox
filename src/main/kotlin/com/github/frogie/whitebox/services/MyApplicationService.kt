@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.frogie.whitebox.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.frogie.whitebox.MyBundle
 
 class MyApplicationService {
 
